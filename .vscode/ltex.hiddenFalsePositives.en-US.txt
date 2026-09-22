@@ -1,0 +1,1 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\Qwindow.addEventListener('keydown', function(e) { const audio = document.querySelector() console.log(e.key) });\\E$"}
